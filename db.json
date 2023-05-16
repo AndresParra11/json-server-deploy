@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "John Doe",
+      "age": 22,
+      "email": "JhonDoe@gmail.com",
+      "adress": "New York",
+      "password": "123456",
+      "phone": 3177338990
+    },
+    {
+      "id": 2,
+      "username": "Jane Smith",
+      "age": 30,
+      "email": "jane.smith@example.com",
+      "address": "Los Angeles",
+      "password": "abcdef",
+      "phone": 3178551051
+    }
+  ]
+}
